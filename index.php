@@ -1,4 +1,7 @@
 <?php
-echo(__FILE__);
- ?>
- <h1>WP Theme X</h1>
+get_header();
+?>
+<p>body</p>
+<?php
+get_footer();
+?>
