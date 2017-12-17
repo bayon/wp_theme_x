@@ -7,7 +7,7 @@
 
 
 <?php
-
+wp_nav_menu( array( 'wp_theme_x' => 'header-menu' ) );
 ?>
 <body>
 
